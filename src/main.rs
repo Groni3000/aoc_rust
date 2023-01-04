@@ -33,7 +33,11 @@ fn main() {
     // DAY 9
         // day_9::solve_v1(10); // 2 for first part, 10 for second. The second part is generalization, so I left first part as ... memories :)
         
-    // DAY 9
-        day_10::solve_v1(); // Ummm... I, personally, think that is awful puzzle.
+    // DAY 10
+        // day_10::solve_v1(); // Ummm... I, personally, think that is awful puzzle.
+
+    // DAY 11
+        day_11::solve_v1(20); //
+        // println!("{}", (3 as u32)/(3 as u32))
 
     }
