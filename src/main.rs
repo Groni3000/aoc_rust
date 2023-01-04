@@ -37,7 +37,7 @@ fn main() {
         // day_10::solve_v1(); // Ummm... I, personally, think that is awful puzzle.
 
     // DAY 11
-        day_11::solve_v1(20); //
-        // println!("{}", (3 as u32)/(3 as u32))
+        day_11::solve_v1(20, 10_000); //
+        // println!("{}", 68/17);
 
     }
